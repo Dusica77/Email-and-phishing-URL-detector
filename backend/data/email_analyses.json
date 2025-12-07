@@ -1,0 +1,243 @@
+[
+  {
+    "email": "admin@atria.edu.com",
+    "result": {
+      "valid": true,
+      "message": "\u26a0\ufe0f Valid domain. No MX records found for domain",
+      "score": 75,
+      "is_phishing": false,
+      "domain": "atria.edu.com",
+      "domain_type": "trusted",
+      "mx_valid": false,
+      "recommendations": [
+        "Use a longer username for better security",
+        "Include special characters in your email username",
+        "Email service configuration may need improvement",
+        "Your email security is good"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:22:36.442969"
+  },
+  {
+    "email": "dusica@gmail.com",
+    "result": {
+      "valid": true,
+      "message": "\u2705 Valid domain. MX records found - email service active",
+      "score": 90,
+      "is_phishing": false,
+      "domain": "gmail.com",
+      "domain_type": "trusted",
+      "mx_valid": true,
+      "recommendations": [
+        "Use a longer username for better security",
+        "Include special characters in your email username",
+        "Your email security is excellent"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:23:48.501889"
+  },
+  {
+    "email": "admin@atria.edu.com",
+    "result": {
+      "valid": true,
+      "message": "\u26a0\ufe0f Valid domain. DNS lookup failed",
+      "score": 75,
+      "is_phishing": false,
+      "domain": "atria.edu.com",
+      "domain_type": "trusted",
+      "mx_valid": false,
+      "recommendations": [
+        "Use a longer username for better security",
+        "Include special characters in your email username",
+        "Email service configuration may need improvement",
+        "Your email security is good"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:35:23.280372"
+  },
+  {
+    "email": "dhanush@gmail.com",
+    "result": {
+      "valid": true,
+      "message": "\u26a0\ufe0f Valid domain. DNS lookup failed",
+      "score": 75,
+      "is_phishing": false,
+      "domain": "gmail.com",
+      "domain_type": "trusted",
+      "mx_valid": false,
+      "recommendations": [
+        "Use a longer username for better security",
+        "Include special characters in your email username",
+        "Email service configuration may need improvement",
+        "Your email security is good"
+      ],
+      "similar_emails": [
+        {
+          "email": "dusica@gmail.com",
+          "domain": "gmail.com"
+        }
+      ]
+    },
+    "timestamp": "2025-11-28T12:39:08.636065"
+  },
+  {
+    "email": "dhanush@gamil.com",
+    "result": {
+      "valid": true,
+      "message": "\u26a0\ufe0f Unknown domain. DNS lookup failed",
+      "score": 60,
+      "is_phishing": false,
+      "domain": "gamil.com",
+      "domain_type": "unknown",
+      "mx_valid": false,
+      "recommendations": [
+        "Use a longer username for better security",
+        "Include special characters in your email username",
+        "Consider using established email providers like Gmail or Outlook",
+        "Email service configuration may need improvement",
+        "Your email security is good"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:39:33.034244"
+  },
+  {
+    "email": "dhanush@gamil.com",
+    "result": {
+      "valid": true,
+      "message": "\u26a0\ufe0f Unknown domain. DNS lookup failed",
+      "score": 60,
+      "is_phishing": false,
+      "domain": "gamil.com",
+      "domain_type": "unknown",
+      "mx_valid": false,
+      "recommendations": [
+        "Use a longer username for better security",
+        "Include special characters in your email username",
+        "Consider using established email providers like Gmail or Outlook",
+        "Email service configuration may need improvement",
+        "Your email security is good"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:39:34.911817"
+  },
+  {
+    "email": "dhanush@gamil.com",
+    "result": {
+      "valid": true,
+      "message": "\u26a0\ufe0f Unknown domain. DNS lookup failed",
+      "score": 60,
+      "is_phishing": false,
+      "domain": "gamil.com",
+      "domain_type": "unknown",
+      "mx_valid": false,
+      "recommendations": [
+        "Use a longer username for better security",
+        "Include special characters in your email username",
+        "Consider using established email providers like Gmail or Outlook",
+        "Email service configuration may need improvement",
+        "Your email security is good"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:39:36.865829"
+  },
+  {
+    "email": "dhanush@gamil.com",
+    "result": {
+      "valid": true,
+      "message": "\u26a0\ufe0f Unknown domain. DNS lookup failed",
+      "score": 60,
+      "is_phishing": false,
+      "domain": "gamil.com",
+      "domain_type": "unknown",
+      "mx_valid": false,
+      "recommendations": [
+        "Use a longer username for better security",
+        "Include special characters in your email username",
+        "Consider using established email providers like Gmail or Outlook",
+        "Email service configuration may need improvement",
+        "Your email security is good"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:39:37.728965"
+  },
+  {
+    "email": "dhanush@gamil.com",
+    "result": {
+      "valid": true,
+      "message": "\u26a0\ufe0f Unknown domain. DNS lookup failed",
+      "score": 60,
+      "is_phishing": false,
+      "domain": "gamil.com",
+      "domain_type": "unknown",
+      "mx_valid": false,
+      "recommendations": [
+        "Use a longer username for better security",
+        "Include special characters in your email username",
+        "Consider using established email providers like Gmail or Outlook",
+        "Email service configuration may need improvement",
+        "Your email security is good"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:40:10.481924"
+  },
+  {
+    "email": "dhanushgamil.com",
+    "result": {
+      "valid": false,
+      "message": "Invalid email format - missing @ symbol",
+      "score": 0,
+      "is_phishing": false,
+      "recommendations": [
+        "Please enter a valid email address format"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:40:19.419550"
+  },
+  {
+    "email": "admin@apple-support-update.com",
+    "result": {
+      "valid": false,
+      "message": "\ud83d\udea8 PHISHING EMAIL DETECTED",
+      "score": 0,
+      "is_phishing": true,
+      "domain": "apple-support-update.com",
+      "domain_type": "phishing",
+      "recommendations": [
+        "This email appears to be a phishing attempt",
+        "Do not provide any personal information",
+        "Report this email to your security team",
+        "Delete this email immediately"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-28T12:40:44.672044"
+  },
+  {
+    "email": "test@microsoft-account-confirm.net",
+    "result": {
+      "valid": false,
+      "message": "\ud83d\udea8 PHISHING EMAIL DETECTED",
+      "score": 0,
+      "is_phishing": true,
+      "domain": "microsoft-account-confirm.net",
+      "domain_type": "phishing",
+      "recommendations": [
+        "This email appears to be a phishing attempt",
+        "Do not provide any personal information",
+        "Report this email to your security team",
+        "Delete this email immediately"
+      ],
+      "similar_emails": []
+    },
+    "timestamp": "2025-11-29T19:21:10.220888"
+  }
+]
